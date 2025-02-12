@@ -73,6 +73,12 @@
             <version>4.0.0</version>
         </dependency>
 
+          <!-- Spring Boot WebFlux (Incluye Project Reactor) -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-webflux</artifactId>
+    </dependency>
+
        
         <dependency>
             <groupId>jakarta.enterprise</groupId>

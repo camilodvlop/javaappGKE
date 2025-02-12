@@ -17,3 +17,8 @@ buildNumber.properties
 .classpath
 src/main/java/co/com/application/appvalidation/records/RecordExampleMain.class
 *.class
+USERSAPI/mvnw
+*.gitignore
+*.gitattributes
+*.cmd
+*/.mvn/*
